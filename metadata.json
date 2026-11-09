@@ -1,0 +1,6 @@
+{
+  "name": "EL VITA",
+  "description": "Application d'apprentissage médical et d'accompagnement clinique pour étudiants en médecine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

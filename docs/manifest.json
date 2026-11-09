@@ -1,0 +1,18 @@
+{
+  "name": "EL VITA — Compagnon Clinique Médical",
+  "short_name": "EL VITA",
+  "description": "Application d'apprentissage médical et d'accompagnement clinique pour étudiants en médecine.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0B192C",
+  "theme_color": "#0B192C",
+  "icons": [
+    {
+      "src": "assets/logo.jpeg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
+  ]
+}
